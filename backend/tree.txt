@@ -1,0 +1,29 @@
+├── .qodo
+├── .vscode
+    ├── settings.json
+├── src
+    ├── models
+        ├── challenge.js
+        ├── chat.js
+        ├── habit.js
+        ├── journal.js
+        ├── user.js
+    ├── routes
+        ├── challenge_routes.js
+        ├── chat_routes.js
+        ├── habit_routes.js
+        ├── integration_routes.js
+        ├── journal_routes.js
+        ├── nudge_routes.js
+        ├── user_routes.js
+    ├── utils
+        ├── auth.js
+        ├── gemini_api.js
+        ├── push.js
+    ├── index.js
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── package.json
+├── README.md
+├── requirements.md

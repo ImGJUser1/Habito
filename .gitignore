@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+.env
+data/
+
+# VS Code
+.vscode/launch.json
+
+# Qodo (optional, include if needed)
+.qodo/
+
+# Lock files (optional, can be regenerated)
+frontend/package-lock.json
+backend/package-lock.json
